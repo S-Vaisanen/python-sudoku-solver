@@ -1,5 +1,5 @@
 # python-sudoku-solver
 
-Requires Python 3.0 or later. GUI implemented using Tkinter. Solves Sudoku puzzles using logical elimination and DFS algorithm.
+The script solves Sudoku puzzles using logical elimination and DFS algorithm. Requires Python 3.0 or a later version. GUI implemented using Tkinter. 
 
 Created by Simo Väisänen.
