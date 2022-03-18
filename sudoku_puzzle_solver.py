@@ -355,7 +355,7 @@ def count_sec():
     return True
 
 
-# Below a Depth First Search algorithm using stack (FIFO – first in first out)
+# Below a Depth First Search algorithm using stack (LIFO – last in first out)
 # is implemented. The stack is implemented using previous_matrixes (list). If
 # the script cannot resolve the puzzle using logical elimination any further
 # (i.e. functions implement_horizontal(), implement_vertical() and sectors()
